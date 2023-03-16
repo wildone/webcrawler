@@ -1,0 +1,1 @@
+java -Xmx1024m -cp webtool_z.jar jmaster.webtool.app.WebToolApplication
